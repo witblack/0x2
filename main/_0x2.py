@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 github.com/razyar
 Notice:
